@@ -1,0 +1,1 @@
+console.log('It is demo-2');
